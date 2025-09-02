@@ -207,6 +207,7 @@ sardor Uchqunov
 - [Archit Jaju](https://github.com/ayhm23)
 - [Johnathan Roehsner](https://github.com/johnathan22966)
 - [Kerolos Nesim](https://github.com/kerolosnesim1)
+- [Mowlick Armstrong](https://github.com/Mowlick)
 - [Shashidhar](https://github.com/shashidharsai)
 - [Tum Teeradach](https://github.com/Tum-404)
 - [gazoline keton](https://github.com/gazolineketon)
